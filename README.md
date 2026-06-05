@@ -10,4 +10,4 @@ Features intended:
 - Ender Chest
 - Crafting Table
 
-This project still needs implementation and compilation.
+This is Still WIP
