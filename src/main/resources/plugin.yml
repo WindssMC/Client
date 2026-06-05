@@ -1,0 +1,4 @@
+name: OpenClient
+version: 1.0
+main: me.jesse.openclient.OpenClient
+api-version: '1.21'
